@@ -298,11 +298,21 @@
     var typed = new Typed('#subtitle', {
       strings: [
         '  ',
-        "咸鱼的基本属性&nbsp;",
+        
+          
+            '咸鱼的基本属性',
+          
+            '基本属性',
+          
+            '属性',
+          
+        
+        
       ],
       cursorChar: "_",
-      typeSpeed: 100,
-      loop: false,
+      typeSpeed: 90,
+      backSpeed: 10,
+      loop: true,
     });
     typed.stop();
     $(document).ready(function () {

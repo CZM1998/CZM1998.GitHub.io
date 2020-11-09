@@ -258,11 +258,17 @@
     var typed = new Typed('#subtitle', {
       strings: [
         '  ',
-        "哦豁，页面整脱咯&nbsp;",
+        
+          
+            '哦豁，页面整脱咯',
+          
+        
+        
       ],
       cursorChar: "_",
-      typeSpeed: 100,
-      loop: false,
+      typeSpeed: 90,
+      backSpeed: 10,
+      loop: true,
     });
     typed.stop();
     $(document).ready(function () {
