@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://czm.cool/2020/12/01/AI_Note/</loc>
+    <loc>https://czm.cool/about.html</loc>
     
     <lastmod>2021-05-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://czm.cool/about.html</loc>
+    <loc>https://czm.cool/2020/AI_Note/</loc>
     
     <lastmod>2021-05-31</lastmod>
     
@@ -23,21 +23,21 @@
   </url>
   
   <url>
-    <loc>https://czm.cool/2020/12/01/LeetCode_Question_Note/</loc>
+    <loc>https://czm.cool/2020/LeetCode_Question_Note/</loc>
     
     <lastmod>2021-05-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://czm.cool/2020/12/01/OOP_Note/</loc>
+    <loc>https://czm.cool/2020/OOP_Note/</loc>
     
     <lastmod>2021-05-31</lastmod>
     
   </url>
   
   <url>
-    <loc>https://czm.cool/2020/12/01/C_Syntax_Quick_Overview/</loc>
+    <loc>https://czm.cool/2020/C_Syntax_Quick_Overview/</loc>
     
     <lastmod>2021-05-31</lastmod>
     
@@ -74,14 +74,14 @@
   </url>
   
   <url>
-    <loc>https://czm.cool/tags/C%E8%AF%AD%E8%A8%80/</loc>
+    <loc>https://czm.cool/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://czm.cool/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://czm.cool/tags/C%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2021-05-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
