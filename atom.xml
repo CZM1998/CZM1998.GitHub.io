@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>CZM有点冷</title>
+  
+  
+  <link href="https://czm.cool/atom.xml" rel="self"/>
+  
+  <link href="https://czm.cool/"/>
+  <updated>2021-05-31T08:04:06.912Z</updated>
+  <id>https://czm.cool/</id>
+  
+  <author>
+    <name>CZM</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI的笔记</title>
+    <link href="https://czm.cool/2020/12/01/AI_Note/"/>
+    <id>https://czm.cool/2020/12/01/AI_Note/</id>
+    <published>2020-12-01T14:22:25.000Z</published>
+    <updated>2021-05-31T08:04:06.912Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;让世界充满AI。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://czm.cool/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://czm.cool/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="AI" scheme="https://czm.cool/tags/AI/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>LeetCode刷题笔记</title>
+    <link href="https://czm.cool/2020/12/01/LeetCode_Question_Note/"/>
+    <id>https://czm.cool/2020/12/01/LeetCode_Question_Note/</id>
+    <published>2020-12-01T14:22:24.000Z</published>
+    <updated>2021-05-31T07:52:54.262Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;leetcode是一个在线刷算法题的网站，乃程序员居家必备，出门旅行都不可或缺的重要网站。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://czm.cool/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="笔记" scheme="https://czm.cool/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="算法" scheme="https://czm.cool/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面向对象笔记</title>
+    <link href="https://czm.cool/2020/12/01/OOP_Note/"/>
+    <id>https://czm.cool/2020/12/01/OOP_Note/</id>
+    <published>2020-12-01T14:22:23.000Z</published>
+    <updated>2021-05-31T07:52:46.578Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;有对象，程序更美好。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="笔记" scheme="https://czm.cool/categories/%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="面向对象" scheme="https://czm.cool/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+    <category term="笔记" scheme="https://czm.cool/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C语言基本语法速览</title>
+    <link href="https://czm.cool/2020/12/01/C_Syntax_Quick_Overview/"/>
+    <id>https://czm.cool/2020/12/01/C_Syntax_Quick_Overview/</id>
+    <published>2020-12-01T14:22:22.000Z</published>
+    <updated>2021-05-31T07:52:35.356Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;C语言诞生于1969年至1973年间，由丹尼斯·里奇与肯·汤普逊在B语言的基础上改造而成。C语言以其简洁、高效、灵活的语法和极强的性能迅速流行起来。大量的基础性软件由C语言制作，并成为现在许多服务的基础。日至今日，C语言仍然在编程语言中占据极为重要的地位，是目前最流行的语言之一。而在C语言诞生之后的语言，也或多或少的受到C语言的影响。诸如C++，Java，C#等语言中，都能看到C语言的影子。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="C语言" scheme="https://czm.cool/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="C语言" scheme="https://czm.cool/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
+  
+</feed>

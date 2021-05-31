@@ -1350,6 +1350,39 @@ photos img {
   color: #fff;
   background-color: rgba(144,144,255,0.7);
 }
+.highlight {
+  position: relative;
+}
+.btn-copy {
+  z-index: 10;
+  width: 50px;
+  height: 26px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  background-color: #fafafa;
+  border-radius: 13px;
+  -webkit-appearance: none;
+  -webkit-transition: opacity 0.3s ease-in-out;
+  -o-transition: opacity 0.3s ease-in-out;
+  transition: opacity 0.3s ease-in-out;
+  position: absolute;
+  right: 13px;
+  top: 13px;
+  opacity: 0;
+}
+.btn-icon {
+  width: 20px;
+  height: 20px;
+  background-image: url("/img/copy.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+.highlight:hover .btn-copy {
+  opacity: 1;
+}
 @-moz-keyframes shake-it {
   0% {
     text-shadow: 0 0 rgba(0,255,255,0.5), 0 0 rgba(255,0,0,0.5);
