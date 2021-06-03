@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://czm.cool/2020/AI_Note/</loc>
+    
+    <lastmod>2021-06-03</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://czm.cool/2020/C_Syntax_Quick_Overview/</loc>
+    
+    <lastmod>2021-06-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://czm.cool/2020/LeetCode_Question_Note/</loc>
     
     <lastmod>2021-06-03</lastmod>
@@ -16,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://czm.cool/2020/AI_Note/</loc>
-    
-    <lastmod>2021-05-31</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://czm.cool/archives.html</loc>
     
     <lastmod>2021-05-31</lastmod>
@@ -31,13 +38,6 @@
   
   <url>
     <loc>https://czm.cool/2020/OOP_Note/</loc>
-    
-    <lastmod>2021-05-31</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://czm.cool/2020/C_Syntax_Quick_Overview/</loc>
     
     <lastmod>2021-05-31</lastmod>
     
@@ -74,14 +74,14 @@
   </url>
   
   <url>
-    <loc>https://czm.cool/tags/%E7%AE%97%E6%B3%95/</loc>
+    <loc>https://czm.cool/tags/C%E8%AF%AD%E8%A8%80/</loc>
     <lastmod>2021-06-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://czm.cool/tags/C%E8%AF%AD%E8%A8%80/</loc>
+    <loc>https://czm.cool/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2021-06-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
