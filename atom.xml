@@ -31,9 +31,9 @@
     <category term="笔记" scheme="https://czm.cool/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="AI" scheme="https://czm.cool/tags/AI/"/>
-    
     <category term="笔记" scheme="https://czm.cool/tags/%E7%AC%94%E8%AE%B0/"/>
+    
+    <category term="AI" scheme="https://czm.cool/tags/AI/"/>
     
   </entry>
   
@@ -73,9 +73,9 @@
     <category term="笔记" scheme="https://czm.cool/categories/%E7%AC%94%E8%AE%B0/"/>
     
     
-    <category term="笔记" scheme="https://czm.cool/tags/%E7%AC%94%E8%AE%B0/"/>
-    
     <category term="面向对象" scheme="https://czm.cool/tags/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1/"/>
+    
+    <category term="笔记" scheme="https://czm.cool/tags/%E7%AC%94%E8%AE%B0/"/>
     
   </entry>
   
