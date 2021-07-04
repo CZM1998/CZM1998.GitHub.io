@@ -6,7 +6,7 @@
   <link href="https://czm.cool/atom.xml" rel="self"/>
   
   <link href="https://czm.cool/"/>
-  <updated>2021-06-03T03:31:40.307Z</updated>
+  <updated>2021-07-04T01:44:15.912Z</updated>
   <id>https://czm.cool/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用PPT画一个洛天依</title>
+    <link href="https://czm.cool/2021/LTY_with_PPT/"/>
+    <id>https://czm.cool/2021/LTY_with_PPT/</id>
+    <published>2021-07-04T01:33:52.789Z</published>
+    <updated>2021-07-04T01:44:15.912Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;众所周知，PPT是一个优秀的绘图软件。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="脑洞" scheme="https://czm.cool/categories/%E8%84%91%E6%B4%9E/"/>
+    
+    
+    <category term="有手就行" scheme="https://czm.cool/tags/%E6%9C%89%E6%89%8B%E5%B0%B1%E8%A1%8C/"/>
+    
+    <category term="开个脑洞" scheme="https://czm.cool/tags/%E5%BC%80%E4%B8%AA%E8%84%91%E6%B4%9E/"/>
+    
+  </entry>
   
   <entry>
     <title>AI的笔记</title>
