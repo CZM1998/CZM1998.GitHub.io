@@ -6,7 +6,7 @@
   <link href="https://czm.cool/atom.xml" rel="self"/>
   
   <link href="https://czm.cool/"/>
-  <updated>2021-07-04T01:44:15.912Z</updated>
+  <updated>2021-07-27T03:13:06.212Z</updated>
   <id>https://czm.cool/</id>
   
   <author>
@@ -15,6 +15,25 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从零开始的C语言数组，为何？</title>
+    <link href="https://czm.cool/2021/C_Array_From_Zero_Why/"/>
+    <id>https://czm.cool/2021/C_Array_From_Zero_Why/</id>
+    <published>2021-07-27T02:14:47.500Z</published>
+    <updated>2021-07-27T03:13:06.212Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;在学习C语言的时候，大家总是会产生一个疑惑——C的数组下标，为何从零开始？让我们简单探索一下。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="C语言" scheme="https://czm.cool/categories/C%E8%AF%AD%E8%A8%80/"/>
+    
+    
+    <category term="C语言" scheme="https://czm.cool/tags/C%E8%AF%AD%E8%A8%80/"/>
+    
+  </entry>
   
   <entry>
     <title>用PPT画一个洛天依</title>
